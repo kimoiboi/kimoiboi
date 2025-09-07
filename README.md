@@ -1,4 +1,9 @@
-## Hi there 👋
+* ☺️Hello everyone, I'm Karim! (@kimoiboi)
+* 🧠Avid learner for CS related topics
+* 📖Currently learning SpringBoot, SQL, C++, & Front-End
+* 🧑‍🤝‍🧑Connect with me on LinkedIn & GitHub 
+* 🛠️Current Project: Portfolio Website
+* 🍣Fact about me: I love sushi 
 
 <!--
 **kimoiboi/kimoiboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
