@@ -1,4 +1,4 @@
-* ☺️Hello everyone, I'm Karim! (@kimoiboi)
+* ☺️Hello everyone, I'm Karim (@kimoiboi)
 * 🧠Avid learner for CS related topics
 * 📖Currently learning SpringBoot, SQL, C++, & Front-End
 * 🧑‍🤝‍🧑Connect with me on LinkedIn & GitHub 
