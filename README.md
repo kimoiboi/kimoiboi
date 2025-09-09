@@ -1,6 +1,6 @@
 * ☺️Hello everyone, I'm Karim (@kimoiboi)
 * 🧠Avid learner for CS related topics
-* 📖Currently learning SpringBoot, SQL, C++, & Front-End
+* 📖Currently doing Project-Based Learning HTML/CSS & JavaScript
 * 🧑‍🤝‍🧑Connect with me on LinkedIn & GitHub 
 * 🛠️Current Project: Portfolio Website
 * 🍣Fact about me: I love sushi 
