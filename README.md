@@ -1,6 +1,6 @@
 * ☺️Hello everyone, I'm Karim (@kimoiboi)
 * 🧠Avid learner for CS related topics
-* 📖Currently doing Project-Based Learning HTML/CSS & JavaScript
+* 📖Currently practicing Project-Based Learning with HTML/CSS & JavaScript
 * 🧑‍🤝‍🧑Connect with me on LinkedIn & GitHub 
 * 🛠️Current Project: CPR Mobile App
 * 🍣Fact about me: I love sushi 
