@@ -2,7 +2,7 @@
 * 🧠Avid learner for CS related topics
 * 📖Currently practicing Project-Based Learning with HTML/CSS & JavaScript
 * 🧑‍🤝‍🧑Connect with me on LinkedIn & GitHub 
-* 🛠️Current Project: CPR Mobile App
+* 🛠️Current Project: Portfolio Website
 * 🍣Fact about me: I love sushi 
 
 <!--
